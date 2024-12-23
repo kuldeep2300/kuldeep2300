@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** and 
 ## 📫 How to Reach Me
 - **GitHub**: [github.com/kuldeep2300](https://github.com/kuldeep2300)
 - **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/kuldeep-verma-8984a3255/)
-- **Email**: [](kv5228920@gmail.com)
+- **Email**: [kv5228920@gmail.com](kv5228920@gmail.com)
 
 ---
 
